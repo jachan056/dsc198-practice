@@ -1,1 +1,1 @@
-# dsc198-practice
+Practice Repo for DSC-198 DSROCKS
